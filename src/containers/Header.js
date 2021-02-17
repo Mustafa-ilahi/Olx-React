@@ -20,6 +20,9 @@ class Header extends Component{
                         {/* <input type="text"/>
                         <img src={search_icon} id="search_icon"/> */}
                     <TextField  placeholder="Pakistan"/>
+                    <Nav.Link>
+                        <a href="#" id="login">Login</a>
+                    </Nav.Link>
                     {/* <NavDropdown title="Pakistan" id="collasible-nav-dropdown">
                         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
@@ -27,6 +30,7 @@ class Header extends Component{
                         <NavDropdown.Divider />
                         <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                     </NavDropdown> */}
+
                     </Nav>
                 </Navbar.Collapse>
                 </Navbar>

@@ -12,8 +12,31 @@
 
 #search_iconBg{
     position: relative;
-    right: 115px;
-    top: 1px;
-    height: 57px;
-    width: 57px;
+    right: 117px;
+    top: 0px;
+    height: 58px;
+    width: 58px;
+    border-radius: 10px;
 }
+
+#login{
+    color: #002f34;
+    text-decoration: underline;
+    font-weight: bold;
+    position: relative;
+    right: 100px;
+    top: 12px;
+}
+
+#login:hover{
+    text-decoration: none;
+}
+
+._21nYN ._2bClX._12yOz {
+    fill: #fff;
+}
+._21nYN ._2bClX {
+    stroke: none;
+    fill-rule: evenodd;
+    fill-opacity: 1;}
+    
