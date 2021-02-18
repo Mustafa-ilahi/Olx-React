@@ -4,8 +4,8 @@
 
 #search_icon {
     position: relative;
-    right: 225px;
-    bottom: 2px;
+    right: 307px;
+    bottom: 1px;
     height: 21px;
     width: 25px;
 }
@@ -31,12 +31,3 @@
 #login:hover{
     text-decoration: none;
 }
-
-._21nYN ._2bClX._12yOz {
-    fill: #fff;
-}
-._21nYN ._2bClX {
-    stroke: none;
-    fill-rule: evenodd;
-    fill-opacity: 1;}
-    
